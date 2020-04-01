@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157984067676",
+    "firebase_url": "https://adwaith-app.firebaseio.com",
+    "project_id": "adwaith-app",
+    "storage_bucket": "adwaith-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157984067676:android:c246ab9339068a7f259699",
+        "android_client_info": {
+          "package_name": "com.reverie.nerdsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157984067676-uk7ko6c1do5vtkh80k76i5vvivs2q6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcZN2GSWqwrOV9R5wCLsDAI46AVRAEvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157984067676-uk7ko6c1do5vtkh80k76i5vvivs2q6gq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "157984067676-9g5fsl5bndol29jg0rhi4ph9v39jot5s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reverie.nerdsearch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

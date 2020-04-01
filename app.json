@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Blank Template",
+    "slug": "nerd",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.reverie.nerdsearch",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.157984067676-9g5fsl5bndol29jg0rhi4ph9v39jot5s"
+        }
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.reverie.nerdsearch",
+      "googleServicesFile": "./google-services.json"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "Blank Template",
+  "name": "nerd"
+}

@@ -1,0 +1,550 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:unimodules-react-native-adapter] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e041787ca9c7d960afeeb3f3d06fb4c7/jetified-react-native-0.61.5/AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-permissions] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/01aba6feafaa9666a150e0ccab90f24c/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/f7fa931c10060cb31b4ececcd856b65d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-google-sign-in] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-google-sign-in/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/8f63473d5a992fa305fe3da8f10368e1/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/9a2e3e7968ca1dcc16437322523e0ef9/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/455665511766fa2a6610ce004c4d4460/transition-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c54891a12dfdd2d6a1723e861d047570/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/31d271c45342cbe67a088ea105b41a7a/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/abb5cf2bd3d1a6c131f16ce8482fd644/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/84bc7cca6c0de968b3b4607554624907/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/b1aaa0902a32bfedefbe146dcd10d96a/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c4c9162be8d39961757fd9ce07542a45/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/139281c5d6898c2be8a6a6b8d509360f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/5c75bd7951d359a85775620c0170e49e/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/d5caeb323d2f012734c7fc83bc887a28/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/92f8e3eea2413f9234d57f836e040f22/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/10c23e4693f75e7c26502c252f3749d1/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bb266b8f09dd155d6365b90af2437f74/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1eb6289dfad3cc6012af20f5cdd2bf5b/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.media:media:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e6db2a8ebafb4101960628e4b20a9462/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/18e25bdaeb278667d7aef2960bdb2cf5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/98533a75c963d389d2db7b5a19727bc5/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/850a3c84da944cc872764513edcd7120/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/14bfd2f44a1567c658112bb55b76246b/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c4e2469658fdd8801a5306110b0915fc/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e27002105a9bdd38fe216ef919b747b9/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/cb2cdf934d3d3e0441b52d1dc3cb2e6a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ad12b5d47f95c8d2598703c1b1f7c267/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0408bc08863151ad5a41361bace418b5/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/223ae8e78f23f48ba5d96a1dcabe1834/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/495dc0f2fa247d616fe68db13bf5e07d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/48d198bece9830d2bf28cd51b05742db/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/8024d43f2ec98c58159e4490c7c84830/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/f543223d8dd1217edab7f57e00d5e19d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/aace0d5da73d2c817f12bb96d6698e5c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/7d7fd0d2929b90b96150578fa61b2794/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1d3d300991201f0272c309154f6a5e44/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/b483c59108b83b2c001374a9e1131636/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/28efee2bf1e9a77f569846ad27f8a168/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e2041232485bdf4d2a09c36930218fc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0b3ed2b8b9ba103e713cc57e24141ba7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/80494d026c905f06e4c8b45b3569cb2d/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/54ec9a60a0f20829d9c5323f1ce0908c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0571339fd4cb74441b19561f6766bb98/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0f91f258f9d0abaa0e56c019df47bd85/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/4ea367cfbff3bd7f8a9380a445a9362f/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/7ccdab21f14925d3987ed3a60e8aa90e/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/effdd175bbadf96a2f5c49ec9f07dc38/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/5464671690d6d35c8b00d7a6c204c2a5/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/76946b5039130a1e8d542c2d26cfff1e/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/8f3e86e081c3fa9bf757269bd013173b/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/9293443dff4d9319257ab89a3a2517ff/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bf47f9a8c1484e97f0237cfdee2061ca/jetified-soloader-0.6.0/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/f2e67b70eeeddef4165fd5cc178c737e/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:2:5-23
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e041787ca9c7d960afeeb3f3d06fb4c7/jetified-react-native-0.61.5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e041787ca9c7d960afeeb3f3d06fb4c7/jetified-react-native-0.61.5/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/01aba6feafaa9666a150e0ccab90f24c/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/01aba6feafaa9666a150e0ccab90f24c/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c54891a12dfdd2d6a1723e861d047570/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c54891a12dfdd2d6a1723e861d047570/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/84bc7cca6c0de968b3b4607554624907/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/84bc7cca6c0de968b3b4607554624907/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/b1aaa0902a32bfedefbe146dcd10d96a/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/b1aaa0902a32bfedefbe146dcd10d96a/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c4c9162be8d39961757fd9ce07542a45/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c4c9162be8d39961757fd9ce07542a45/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/139281c5d6898c2be8a6a6b8d509360f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/139281c5d6898c2be8a6a6b8d509360f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bb266b8f09dd155d6365b90af2437f74/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bb266b8f09dd155d6365b90af2437f74/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1eb6289dfad3cc6012af20f5cdd2bf5b/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1eb6289dfad3cc6012af20f5cdd2bf5b/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bf47f9a8c1484e97f0237cfdee2061ca/jetified-soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bf47f9a8c1484e97f0237cfdee2061ca/jetified-soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.nerd.MainActivity
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+MERGED from [:unimodules-react-native-adapter] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e041787ca9c7d960afeeb3f3d06fb4c7/jetified-react-native-0.61.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e041787ca9c7d960afeeb3f3d06fb4c7/jetified-react-native-0.61.5/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/01aba6feafaa9666a150e0ccab90f24c/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/01aba6feafaa9666a150e0ccab90f24c/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/f7fa931c10060cb31b4ececcd856b65d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/f7fa931c10060cb31b4ececcd856b65d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-google-sign-in] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-google-sign-in/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-google-sign-in] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-google-sign-in/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/8f63473d5a992fa305fe3da8f10368e1/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/8f63473d5a992fa305fe3da8f10368e1/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/9a2e3e7968ca1dcc16437322523e0ef9/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/9a2e3e7968ca1dcc16437322523e0ef9/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/455665511766fa2a6610ce004c4d4460/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/455665511766fa2a6610ce004c4d4460/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c54891a12dfdd2d6a1723e861d047570/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c54891a12dfdd2d6a1723e861d047570/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/31d271c45342cbe67a088ea105b41a7a/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/31d271c45342cbe67a088ea105b41a7a/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/abb5cf2bd3d1a6c131f16ce8482fd644/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/abb5cf2bd3d1a6c131f16ce8482fd644/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/84bc7cca6c0de968b3b4607554624907/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/84bc7cca6c0de968b3b4607554624907/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/b1aaa0902a32bfedefbe146dcd10d96a/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/b1aaa0902a32bfedefbe146dcd10d96a/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c4c9162be8d39961757fd9ce07542a45/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c4c9162be8d39961757fd9ce07542a45/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/139281c5d6898c2be8a6a6b8d509360f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/139281c5d6898c2be8a6a6b8d509360f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/5c75bd7951d359a85775620c0170e49e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/5c75bd7951d359a85775620c0170e49e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/d5caeb323d2f012734c7fc83bc887a28/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/d5caeb323d2f012734c7fc83bc887a28/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/92f8e3eea2413f9234d57f836e040f22/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/92f8e3eea2413f9234d57f836e040f22/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/10c23e4693f75e7c26502c252f3749d1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/10c23e4693f75e7c26502c252f3749d1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bb266b8f09dd155d6365b90af2437f74/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bb266b8f09dd155d6365b90af2437f74/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1eb6289dfad3cc6012af20f5cdd2bf5b/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1eb6289dfad3cc6012af20f5cdd2bf5b/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e6db2a8ebafb4101960628e4b20a9462/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e6db2a8ebafb4101960628e4b20a9462/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/18e25bdaeb278667d7aef2960bdb2cf5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/18e25bdaeb278667d7aef2960bdb2cf5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/98533a75c963d389d2db7b5a19727bc5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/98533a75c963d389d2db7b5a19727bc5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/850a3c84da944cc872764513edcd7120/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/850a3c84da944cc872764513edcd7120/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/14bfd2f44a1567c658112bb55b76246b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/14bfd2f44a1567c658112bb55b76246b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c4e2469658fdd8801a5306110b0915fc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/c4e2469658fdd8801a5306110b0915fc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e27002105a9bdd38fe216ef919b747b9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e27002105a9bdd38fe216ef919b747b9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/cb2cdf934d3d3e0441b52d1dc3cb2e6a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/cb2cdf934d3d3e0441b52d1dc3cb2e6a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ad12b5d47f95c8d2598703c1b1f7c267/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ad12b5d47f95c8d2598703c1b1f7c267/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0408bc08863151ad5a41361bace418b5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0408bc08863151ad5a41361bace418b5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/223ae8e78f23f48ba5d96a1dcabe1834/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/223ae8e78f23f48ba5d96a1dcabe1834/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/495dc0f2fa247d616fe68db13bf5e07d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/495dc0f2fa247d616fe68db13bf5e07d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/48d198bece9830d2bf28cd51b05742db/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/48d198bece9830d2bf28cd51b05742db/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/8024d43f2ec98c58159e4490c7c84830/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/8024d43f2ec98c58159e4490c7c84830/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/f543223d8dd1217edab7f57e00d5e19d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/f543223d8dd1217edab7f57e00d5e19d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/aace0d5da73d2c817f12bb96d6698e5c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/aace0d5da73d2c817f12bb96d6698e5c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/7d7fd0d2929b90b96150578fa61b2794/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/7d7fd0d2929b90b96150578fa61b2794/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1d3d300991201f0272c309154f6a5e44/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/1d3d300991201f0272c309154f6a5e44/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/b483c59108b83b2c001374a9e1131636/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/b483c59108b83b2c001374a9e1131636/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/28efee2bf1e9a77f569846ad27f8a168/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/28efee2bf1e9a77f569846ad27f8a168/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e2041232485bdf4d2a09c36930218fc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/e2041232485bdf4d2a09c36930218fc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0b3ed2b8b9ba103e713cc57e24141ba7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0b3ed2b8b9ba103e713cc57e24141ba7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/80494d026c905f06e4c8b45b3569cb2d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/80494d026c905f06e4c8b45b3569cb2d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/54ec9a60a0f20829d9c5323f1ce0908c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/54ec9a60a0f20829d9c5323f1ce0908c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0571339fd4cb74441b19561f6766bb98/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0571339fd4cb74441b19561f6766bb98/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0f91f258f9d0abaa0e56c019df47bd85/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/0f91f258f9d0abaa0e56c019df47bd85/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/4ea367cfbff3bd7f8a9380a445a9362f/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/4ea367cfbff3bd7f8a9380a445a9362f/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/7ccdab21f14925d3987ed3a60e8aa90e/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/7ccdab21f14925d3987ed3a60e8aa90e/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/effdd175bbadf96a2f5c49ec9f07dc38/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/effdd175bbadf96a2f5c49ec9f07dc38/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/5464671690d6d35c8b00d7a6c204c2a5/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/5464671690d6d35c8b00d7a6c204c2a5/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/76946b5039130a1e8d542c2d26cfff1e/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/76946b5039130a1e8d542c2d26cfff1e/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/8f3e86e081c3fa9bf757269bd013173b/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/8f3e86e081c3fa9bf757269bd013173b/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/9293443dff4d9319257ab89a3a2517ff/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/9293443dff4d9319257ab89a3a2517ff/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bf47f9a8c1484e97f0237cfdee2061ca/jetified-soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/bf47f9a8c1484e97f0237cfdee2061ca/jetified-soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/f2e67b70eeeddef4165fd5cc178c737e/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/f2e67b70eeeddef4165fd5cc178c737e/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/reverie-pc/Documents/Git-Reverie/Nerdsearch/nerd/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/97888e3d7ab7b84a418ea6208abd554b/jetified-play-services-auth-16.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/84bc7cca6c0de968b3b4607554624907/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/84bc7cca6c0de968b3b4607554624907/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/84bc7cca6c0de968b3b4607554624907/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/84bc7cca6c0de968b3b4607554624907/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/139281c5d6898c2be8a6a6b8d509360f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/139281c5d6898c2be8a6a6b8d509360f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/139281c5d6898c2be8a6a6b8d509360f/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/reverie-pc/.gradle/caches/transforms-2/files-2.1/ccde75245a3e0c66e6ff63306ef8721b/jetified-library-3.2.11/AndroidManifest.xml:26:13-120
